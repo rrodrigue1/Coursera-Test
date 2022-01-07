@@ -1,2 +1,2 @@
-# Coursera-Test
-Coursera Test repository 
+# Blueprintz NFT
+Virtual Land Real Estate Investment NFT 
